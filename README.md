@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>A few school projects</b>
-  - [Nmap+Wireshark](https://github.com/NicholasGrady/NicholasGrady)
-  - [Autopsy forensic tool](https://github.com/NicholasGrady/NicholasGrady)
+  - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/NicholasGrady)
 
 <h2>🧠 Self Learning:</h2>
 
