@@ -7,8 +7,22 @@
 
 <h2>📜 Certification:</h2>
 
-- <b>CompTIA CySA+ (Cybersecurity Analyst+)</b>
-  - [Cysa.pdf](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf)
+- <b>CompTIA CySA+ (Cybersecurity Analyst+, Expires 2030)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf)
+- <b>CompTIA Pentest+ (Penetration Testing+, Expires 2027)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20PenTest%2B%20ce%20certificate.pdf)
+- <b>CompTIA Security+ (Expires 2030)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- <b>CompTIA Network+ (Expires 2030)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
+- <b>CompTIA A+ (Expires 2030)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
+- <b>Linux Essentials LPI</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/LE-1.pdf)
+- <b>ITIL 4</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/e-cert.pdf)
+- <b>CompTIA Project+ (Expires 2030)</b>
+  - [PDF](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20Project%2B%20certificate.pdf)
 
 
 <!--
