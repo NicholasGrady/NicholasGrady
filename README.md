@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>A few school projects</b>
-  - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/NicholasGrady)
+- <b>Using Nmap, Wireshark, and Autospy School Project</b>
+  - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/SchoolProjects/blob/main/README.md)
 
 <h2>🧠 Self Learning:</h2>
 
