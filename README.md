@@ -6,8 +6,9 @@
   - [Practicing setting up a home lab environment](https://github.com/NicholasGrady/SOCHomeLab/)
 
 <h2>📜 Certification:</h2>
+
 - <b>CompTIA CySA+ (Cybersecurity Analyst+)</b>
-  - [Practicing setting up a home lab environment](https://github.com/NicholasGrady/SOCHomeLab/)
+  - [Cysa.pdf](https://github.com/NicholasGrady/SOCHomeLab/)
 
 
 <!--
