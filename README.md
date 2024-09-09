@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SOC Home Lab Practice</b>
-  - [Practicing setting up a home lab environment](https://github.com/NicholasGrady/NicholasGrady)
+- <b>A few school projects</b>
+  - [Nmap+Wireshark](https://github.com/NicholasGrady/NicholasGrady)
+  - [Autopsy forensic tool](https://github.com/NicholasGrady/NicholasGrady)
 
 <h2>🧠 Self Learning:</h2>
 
