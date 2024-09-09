@@ -8,7 +8,7 @@
 <h2>📜 Certification:</h2>
 
 - <b>CompTIA CySA+ (Cybersecurity Analyst+)</b>
-  - [Cysa.pdf](https://github.com/NicholasGrady/SOCHomeLab/)
+  - [Cysa.pdf](https://github.com/NicholasGrady/Certificates/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf)
 
 
 <!--
