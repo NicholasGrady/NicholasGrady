@@ -5,11 +5,6 @@
 - <b>Using Nmap, Wireshark, and Autospy School Project</b>
   - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/SchoolProjects/blob/main/README.md)
 
-<h2>🧠 Self Learning:</h2>
-
-- <b>SOC Home Lab Practice</b>
-  - [Practicing setting up a home lab environment](https://github.com/NicholasGrady/NicholasGrady)
-
 <h2>📜 Certification:</h2>
 
 - <b>CompTIA CySA+ (Cybersecurity Analyst+, Expires 2030)</b>
