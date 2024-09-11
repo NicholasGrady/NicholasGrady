@@ -1,4 +1,5 @@
-<h1>Hi, I'm Nick! <br/><a href="https://www.linkedin.com/in/NicholasMGrady/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nick! </h1>
+<a href="https://www.linkedin.com/in/NicholasMGrady/">Linkedin Profile</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
