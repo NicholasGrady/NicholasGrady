@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Using Nmap, Wireshark, and Autospy School Project</b>
+- <b>Using Nmap, Wireshark, and Autospy</b>
   - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/SchoolProjects/blob/main/README.md)
 
 - <b>Active Directory Lab</b>
