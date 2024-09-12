@@ -6,6 +6,9 @@
 - <b>Using Nmap, Wireshark, and Autospy School Project</b>
   - [Nmap, Wireshark, Autopsy](https://github.com/NicholasGrady/SchoolProjects/blob/main/README.md)
 
+- <b>Active Directory Lab</b>
+  - [Active Directory](https://github.com/NicholasGrady/ActiveDirectoryLab/)
+
 <h2>📜 Certification:</h2>
 
 - <b>CompTIA CySA+ (Cybersecurity Analyst+, Expires 2030)</b>
